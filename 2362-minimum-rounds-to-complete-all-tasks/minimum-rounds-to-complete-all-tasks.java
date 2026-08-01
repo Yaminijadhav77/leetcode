@@ -36,5 +36,4 @@ class Solution {
         int ans=sol.minimumRounds(tasks);
         
     }*/
-
 }
